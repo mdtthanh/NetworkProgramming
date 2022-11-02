@@ -1,0 +1,12 @@
+hust 1234 0
+luong 1 1
+nghia 1 0
+hung 1 1
+tuan 5 1
+linh 1 0
+thanh 1 2
+mai 1 0
+cong 1 0
+canh 1 1
+dao 1 0
+d as 2
