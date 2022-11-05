@@ -16,8 +16,8 @@ void SignOut(node *root);
 int main()
 {
     node *root = NULL;
-    int option;
     ReadFile(&root);
+    int option;
     do
     {
         printf("\n\nUSER MANAGEMENT PROGRAM \n");
