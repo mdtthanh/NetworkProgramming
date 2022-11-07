@@ -1,0 +1,15 @@
+hello 1 1
+0x00000000 1 2
+hêlo 1 1
+EOF 1 1
+hust 1234 0
+luong 1 2
+nghia 1 0
+hung 1 1
+tuan 5 2
+linh 1 0
+thanh 1 0
+mai 1 0
+cong 1 0
+canh 1 1
+dao 1 0
