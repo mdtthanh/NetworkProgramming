@@ -1,0 +1,12 @@
+test hostname 1.1.1.1
+
+checkpoint 
+mỗi nhóm trình bày slide 15p
+miêu tả ứng dung 
+ - các chức năng (sử dụng UML)
+ - cách sử dụng
+kiến trúc dự kiến (vẽ hình, mô tả)
+ - client/server
+ - P2P
+các kiến thức cơ sở lý thuyết cần thiết
+các lỗi đã gặp và cách sửa

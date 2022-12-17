@@ -12,3 +12,5 @@ main.o: resolver.c
 
 clean:
 	rm -f *.o *~
+
+
